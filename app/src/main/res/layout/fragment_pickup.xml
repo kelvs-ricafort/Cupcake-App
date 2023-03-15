@@ -79,6 +79,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/date_options" />
 
+
             <TextView
                 android:id="@+id/subtotal"
                 style="@style/Widget.Cupcake.TextView"

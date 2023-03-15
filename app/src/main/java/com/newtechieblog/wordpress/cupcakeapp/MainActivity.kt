@@ -8,6 +8,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 /**
  * Activity for cupcake order flow.
  */
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
