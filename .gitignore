@@ -1,0 +1,5 @@
+*.iml
+.idea
+/app/proguard-rules.pro
+/local.properties
+/.gradle/
